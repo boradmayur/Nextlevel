@@ -3,8 +3,8 @@ function headerComponent() {
 <nav class="navbar navbar-expand-lg navbar-light bg-black py-3 p-lg-0 "
     aria-label="Offcanvas navbar large">
     <div class="container">
-        <a class="navbar-brand p-0" href="index.html"><img src="assets/images/nextgen-logo-white.svg"
-                alt="NextGen logo" width="100" height="50"></a>
+        <a class="navbar-brand p-0" href="index.html"><img src="assets/images/nextlevel-footer-logo.svg"
+                alt="NextLevel logo" width="100" height="50"></a>
 
         <button class="navbar-toggler border-0 p-0 rounded-0" type="button" data-bs-toggle="offcanvas"
             data-bs-target="#offcanvasNavbar2" aria-controls="offcanvasNavbar2" aria-label="Toggle navigation">
@@ -14,8 +14,8 @@ function headerComponent() {
             aria-labelledby="offcanvasNavbar2Label">
             <div class="offcanvas-header">
                 <h5 class="offcanvas-title" id="offcanvasNavbar2Label">
-                    <a class="navbar-brand p-0" href="index.html"><img src="assets/images/nextgen-logo-white.svg"
-                            alt="NextGen logo" width="100" height="50"></a>
+                    <a class="navbar-brand p-0" href="index.html"><img src="assets/images/nextlevel-footer-logo.svg"
+                            alt="NextLevel logo" width="100" height="50"></a>
                 </h5>
                 <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"
                     aria-label="Close"></button>

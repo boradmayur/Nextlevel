@@ -65,8 +65,8 @@ function headerComponent() {
                     </div>
                     <div>
                         <div class="fright-badge">
-                            <figure class="mb-4"><a href="#"><img src="assets/images/nextgen-logo-white.svg"
-                                        alt="nextgen-logo" width="200" height="50" loading="lazy"></a></figure>
+                            <figure class="mb-4"><a href="#"><img src="assets/images/nextlevel-footer-logo.svg"
+                                        alt="NextLevel logo" width="200" height="50" loading="lazy"></a></figure>
                             <p>Shaping the next generation of customer engagement.</p>
                             <div class="f-social">
                                 <a href="https://www.linkedin.com/company/nextgen-customerengagement/"
@@ -83,7 +83,7 @@ function headerComponent() {
             <div class="footer-copy py-3">
                 <div class="row">
                     <div class="col-md-5 text-center text-md-start">
-                        <p class="lh-base">© 2025 | All Rights Reserved - A Next-Gen Holdings Inc</p>
+                        <p class="lh-base">© 2026 | All Rights Reserved - NEXT LEVEL TECH SERVICES INC.</p>
                     </div>
                     <div class="col-md-7 footer-copy-links text-md-end text-center">
                         <a href="privacy-policy.html" title="Privacy policy">Privacy policy</a>
