@@ -1,0 +1,63 @@
+﻿@charset "utf-8";
+/* CSS Document */
+@media all{
+.ng-hero p{line-height: 192%; max-width: 780px;}
+
+
+.ng-hero-info{background: var(--SkyBlueLight);}
+.ng-hi-card{padding: 3.2rem 6rem; background: linear-gradient(90deg, #02A056 0%, #029370 100%); border-radius: 11px; margin-top: -7%;}
+.ng-hi-card p{line-height:180%;}
+
+.industry-group-hd{max-width:1170px;}
+.industry-group-hd p{line-height: 200%;} 
+
+.feedback-section{background: var(--TestimonialBG); border-radius: 20px; padding: 70px 0px;}
+.testimonials-card{max-width:75%;}
+.testimonials-card p{font-family:var(--AvertaFont);  font-weight:400; line-height: 35px;}
+.testimonials-card span{font-size:16px; font-weight:500; opacity: 0.8;}
+
+.we-serve-grid{row-gap:25px; column-gap:25px;}
+.ws-card{padding: 0rem 15px 20px 15px; max-width:290px;} 
+.ws-card.telecom-card{max-width: 340px;}
+.ws-card.manufact-card{max-width: 260px;}
+.ws-card figure{height: 100px; margin-bottom:0.5rem;}
+.ws-card figure img{max-height:80px;}
+.ws-card p{line-height:28px;}
+
+.client-speack-wrap{padding:80px 100px 0px 100px;}
+.sp-grid-2{grid-template-columns: 1fr 1fr; column-gap:80px; row-gap:80px;}
+.sp-grid-2 p{font-family:var(--AvertaFont);line-height: 2rem;font-size: 1.2rem;max-width: 67%;}
+.sp-grid-2 figure{min-width: 90px; margin-right: 30px;}
+
+.sp-grid-3{grid-template-columns: 1fr 1fr 1fr; column-gap:80px; row-gap:80px;    align-items: flex-start;}
+.sp-grid-3 figure{margin-bottom: 30px; max-height: 90px;}
+.sp-grid-3 p{font-family:var(--AvertaFont);line-height: 2rem;font-size: 1.2rem; }
+.sp-grid-3 figure{width: 90px; height: 90px;}
+
+
+
+}
+
+@media all and (max-width:1200px){
+  .testimonials-card {max-width: 80%;}
+  .client-speack-wrap{padding:50px 50px 0px 50px;}
+}
+
+@media all and (max-width:960px){
+  .testimonials-card p{font-size: 1.6rem;}
+  .testimonials-card {max-width:100%;}
+}
+
+@media all and (max-width:767px){
+  .ng-hi-card{padding: 2rem; margin-top: -20%;}
+  .testimonials-card p{font-size: 1.3rem; line-height: 2rem;}
+  .client-name{font-size:18px;}
+  .feedback-section{padding: 1.4rem;}
+
+  .sp-grid-2{grid-template-columns: 1fr; row-gap:50px;}
+  .sp-grid-2 figure{margin-right: 0px;}
+  .client-speack-wrap {padding:30px 20px 30px 20px;}
+  .sp-grid-2 p{max-width: 100%; margin-top: 1.4rem;}
+
+  .sp-grid-3{grid-template-columns: 1fr; row-gap:50px; }
+}

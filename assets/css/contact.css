@@ -1,0 +1,54 @@
+﻿@charset "utf-8";
+/* CSS Document */
+@media all{
+
+.ng-hero h1{max-width: 60%;}
+.contact-grp-heading{max-width: 1010px;}
+.contact-grp-heading p{line-height: 200%;} 
+
+.contact-form-area{background:#f8f8f8; border-radius: 30px; padding:70px 90px;}
+.contact-form-area h2{font-size: var(--HeadingOne); font-weight:900;}
+.contact-form-area h2 span{color: #008E79;}
+
+.oh-hd p{font-size:1.8rem; font-family: "averta-regular";}
+
+.office-hrs{background: #EEFFFC;}
+.location-card{padding:2rem; background: #FFFFFF; border: 1px solid #66C7A1; border-radius: 30px; font-size: 18px; line-height: 180%; transition:all 0.5s ease;}
+.location-card:hover{box-shadow: 1px 0px 13px -2px rgba(102,199,161,0.75);}
+.location-card a{color: var(--BlackClr);}
+.location-card a:hover{color: var(--PrimaryClr);}
+
+.form-container form{grid-template-columns: 1fr 1fr; column-gap: 70px; row-gap:30px;}
+.form-container form div label{ color: #121212DE; font-weight: 500; margin-bottom: 8px;}
+.form-container form div .form-control{padding: 8px 8px 8px 16px; background-color: #FFFFFF; border: 1px solid rgba(18, 18, 18, 0.08); border-radius: 8px; height: 50px;}
+.form-container form div .form-control:focus{border-color: var(--PrimaryClr);}
+.error-msg {font-size: 0.875rem; color: red;}
+
+.full-width{grid-column: 1 / -1;}
+.form-container .btn-secondary{border-radius: 10px; padding: 10px 3rem; font-size: 1.1rem; letter-spacing: 1px;}
+
+}
+
+
+@media all and (max-width:767px){
+  .ng-hero h1{max-width: 80%;}
+  .contact-form-area{padding: 2rem 1.4rem; border-radius: 15px;}
+  .location-card{font-size: 16px; line-height: 170%;}
+  .location-card img{max-height:2rem;}
+  .form-container form{grid-template-columns: 1fr; row-gap:20px;}
+}
+
+/* .thank you page btn css  */
+.btn-outline-tq {
+  font-size: var(--Font16);
+  font-weight: 500;
+  color: var(--WhiteClr);
+  border: solid 1px var(--WhiteClr);
+  padding: 9px 25px 10px 25px;
+  transition: all 0.5s ease;
+  border-radius: 30px;
+  background-color: var(--PrimaryClr);
+}
+.btn-outline-tq:hover {
+  opacity: 0.8;
+}

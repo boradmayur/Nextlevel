@@ -1,0 +1,32 @@
+﻿@charset "utf-8";
+/* CSS Document */
+@media all{
+
+.solution-grp-heading{max-width: 1010px;}
+.solution-grp-heading p{line-height: 200%;} 
+.port-grid h4{font-size: var(--Font18);font-weight: 500;color: var(--WhiteClr);padding: 1.3rem 3rem;max-width: 90%;margin: 0;}
+.port-grid figure{border-radius: 30px;}
+.port-grid figure img{transition:all 0.5s ease;}
+.port-grid figure:hover img{transform: scale(1.1);}
+
+
+
+}
+
+@media (min-width:992px) {
+  
+}
+
+@media all and (max-width:1200px){
+  
+}
+
+@media all and (max-width:960px){
+}
+
+
+@media all and (max-width:767px){
+  .port-grid{margin-bottom:1rem;}
+  
+ 
+}

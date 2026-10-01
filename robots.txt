@@ -1,0 +1,12 @@
+# ------------------------------------------
+# Resulticks -- https://www.nextgenholdings.net/
+# Robot Exclusion File -- robots.txt
+# Author: Resulticks
+# Last Updated: 11/08/2025
+# ------------------------------------------
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.nextgenholdings.net/sitemap.xml
