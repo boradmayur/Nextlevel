@@ -3,76 +3,76 @@
 
   <!-- Home Page -->
   <url>
-    <loc>https://www.nextgenholdings.net/</loc>
+    <loc>https://www.nextleveltechservices.net/</loc>
     <priority>1.0</priority>
   </url>
 
   <!-- Solutions -->
-  <url><loc>https://www.nextgenholdings.net/customer-engagement-personalization.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/crm-cms-sales-enablement.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/cloud-infrastructure-iot-enablement.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/analytics-optimization.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/customer-engagement-personalization.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/crm-cms-sales-enablement.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/cloud-infrastructure-iot-enablement.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/analytics-optimization.html</loc></url>
 
   <!-- Industries -->
-  <url><loc>https://www.nextgenholdings.net/retail.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/bfsi.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/telecom.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/entertainment.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/travel-and-hospitality.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/b2b.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/manufacturing-and-services.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/retail.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/bfsi.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/telecom.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/entertainment.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/travel-and-hospitality.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/b2b.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/manufacturing-and-services.html</loc></url>
 
   <!-- Connected Ecosystem -->
-  <url><loc>https://www.nextgenholdings.net/our-partner-network.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/digital-sherpa.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/aunica.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/new-couch-and-associates.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/hvar.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/the-pedowitz-group.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/pathfactory.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/resulticks.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/our-partner-network.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/digital-sherpa.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/aunica.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/new-couch-and-associates.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/hvar.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/the-pedowitz-group.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/pathfactory.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/resulticks.html</loc></url>
 
   <!-- Privacy Policy and T&C -->
-  <url><loc>https://www.nextgenholdings.net/privacy-policy.html</loc></url>
-  <url><loc>https://www.nextgenholdings.net/terms-and-conditions.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/privacy-policy.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/terms-and-conditions.html</loc></url>
 
   <!-- Contact Us -->
-  <url><loc>https://www.nextgenholdings.net/contact-us.html</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/contact-us.html</loc></url>
 
-  <!-- Blog and Newsroom -->
-  <url><loc>https://www.nextgenholdings.net/blog</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/newsroom/</loc></url>
+  <!-- Blog and Newsroom 
+  <url><loc>https://www.nextleveltechservices.net/blog</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/newsroom/</loc></url> -->
 
-  <!-- Blog List -->
-  <url><loc>https://www.nextgenholdings.net/blog/the-pedowitz-group-joins-forces-with-resulticks-to-help-brands-unlock-new-revenue-growth/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/resulticks-to-power-digitized-customer-engagement/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/nextgen-introduces-the-digital-sherpa-program/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/resulticks-and-pathfactory-announce-new-partnership/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/leveraging-technology-to-build-a-winning-holiday-shopping-content-strategy/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/how-halloween-digital-tech-is-taking-spooky-to-the-next-level/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/create-a-customer-journey-map-and-improve-customer-experience/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/customer-lifecycle-marketing-drives-growth-and-success/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/customer-engagement-marketing-automation-takes-marketing-beyond-the-usual/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/customer-engagement-in-e-commerce-improve-sales/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/transforming-personalization-in-financial-services/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/content_intelligence_bridging_sales_and_marketing_gap/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/digital-marketing-agency-advantage-for-success/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/customer-engagement-analytics-what-is-its-significance/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/three-tips-for-a-world-without-third-party-cookies/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/importance_of_digital_customer_engagement/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/future-proofing-your-cx-stack/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/5-ways-generative-ai-is-transforming-retail-customer-engagement/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/retail-personas-pinpoint-the-perfect-audiences-for-your-campaigns/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/the-art-of-connecting-with-your-audience-a-roadmap-to-consumer-engagement/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/customer_digital_transformation_impact_on_cx/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/what-is-marketing-automation-and-why-is-it-important/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/elevating-b2b-customer-experience-with-digital-transformation-strategy/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/managed-service-provider-role-and-leveraging-in-marketing/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/b2b-marketing-automation-strategies-for-success/</loc></url>
+  <!-- Blog List 
+  <url><loc>https://www.nextleveltechservices.net/blog/the-pedowitz-group-joins-forces-with-resulticks-to-help-brands-unlock-new-revenue-growth/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/resulticks-to-power-digitized-customer-engagement/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/nextgen-introduces-the-digital-sherpa-program/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/resulticks-and-pathfactory-announce-new-partnership/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/leveraging-technology-to-build-a-winning-holiday-shopping-content-strategy/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/how-halloween-digital-tech-is-taking-spooky-to-the-next-level/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/create-a-customer-journey-map-and-improve-customer-experience/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/customer-lifecycle-marketing-drives-growth-and-success/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/customer-engagement-marketing-automation-takes-marketing-beyond-the-usual/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/customer-engagement-in-e-commerce-improve-sales/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/transforming-personalization-in-financial-services/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/content_intelligence_bridging_sales_and_marketing_gap/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/digital-marketing-agency-advantage-for-success/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/customer-engagement-analytics-what-is-its-significance/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/three-tips-for-a-world-without-third-party-cookies/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/importance_of_digital_customer_engagement/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/future-proofing-your-cx-stack/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/5-ways-generative-ai-is-transforming-retail-customer-engagement/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/retail-personas-pinpoint-the-perfect-audiences-for-your-campaigns/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/the-art-of-connecting-with-your-audience-a-roadmap-to-consumer-engagement/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/customer_digital_transformation_impact_on_cx/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/what-is-marketing-automation-and-why-is-it-important/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/elevating-b2b-customer-experience-with-digital-transformation-strategy/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/managed-service-provider-role-and-leveraging-in-marketing/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/b2b-marketing-automation-strategies-for-success/</loc></url> -->
 
-  <!-- Newsroom List -->
-  <url><loc>https://www.nextgenholdings.net/blog/newsroom-press-release-resulticks-aunica-new-partnership/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/newsroom-press-release-resulticks-hvar-new-partnership-01/</loc></url>
-  <url><loc>https://www.nextgenholdings.net/blog/newsroom-press-release-resulticks-hvar-new-partnership/</loc></url>
+  <!-- Newsroom List 
+  <url><loc>https://www.nextleveltechservices.net/blog/newsroom-press-release-resulticks-aunica-new-partnership/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/newsroom-press-release-resulticks-hvar-new-partnership-01/</loc></url>
+  <url><loc>https://www.nextleveltechservices.net/blog/newsroom-press-release-resulticks-hvar-new-partnership/</loc></url> -->
 
 </urlset>

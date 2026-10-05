@@ -1,0 +1,92 @@
+﻿@charset "utf-8";
+/* CSS Document */
+@media all{
+
+ .banner-inner-logo {height:80px; max-width: 300px;}
+.ng-hero h1{max-width: 80%;}
+.ng-hero p{line-height: 192%; max-width: 780px;}
+
+.ng-hi-card{padding: 3.2rem 6rem; background: linear-gradient(90deg, #02A056 0%, #029370 100%); border-radius: 11px; margin-top: -7%;}
+.ng-hi-card p{line-height:170%;}
+
+.solution-grp-heading{max-width: 1010px;}
+.solution-grp-heading p{line-height: 200%;} 
+
+.pedowitz-group{background: #f4f4f4;}
+.pedowitz-caption{padding:30px 25px 30px 30px}
+.pedowitz-grid h4{font-size:20px;font-weight:600;color: var(--WhiteClr);margin-bottom:10px;}
+.pedowitz-grid p{font-size: 15px; line-height: 130%; font-family: "averta-regular";}
+.pedowitz-grid figure{border-radius: 30px;}
+.pedowitz-grid figure img{transition:all 0.5s ease;}
+.pedowitz-grid figure:hover img{transform: scale(1.1);}
+
+.about-grid{grid-template-columns: 1fr 1fr; column-gap: 80px;}
+.about-grid p{line-height: 200%; max-width:95%; line-height: 200%;}
+.about-grid h2{font-size: var(--Font35);}
+
+.click-link a{color: var(--PrimaryClr);}
+
+.call-section{background: linear-gradient(84.8deg, #000000 22.12%, #0B0A1F 101.82%);}
+.call-section h2{max-width:60%; margin: auto; line-height:150%;}
+
+.partner-grid{column-gap:1.5rem; row-gap:3rem;}
+.partner-card{border: 1px solid #CBCBCB; border-top: solid 10px var(--PrimaryClr); border-radius: 6px; padding:0px 35px 50px 35px; max-width: 30%; text-align: center;}
+.partner-card figure{height: 150px;}
+.partner-card p{font-size: 17px; line-height: 170%;}
+
+.partner-speak{background:#E6F4F1;}
+.ps-card *{margin-bottom: 0px;}
+.ps-card{row-gap: 50px; font-family: var(--AvertaFont);}
+
+.ps-card::before,
+.ps-card::after{content: '';position: absolute;width: 4rem;height: 4rem;}
+.ps-card::before{background: url('../images/hvar/quote-top-left.svg') no-repeat center;background-size: contain;top: 2rem;left: 3rem;}
+.ps-card::after{background: url('../images/hvar/quote-bottom-right.svg') no-repeat center;background-size: contain;position: absolute;bottom: 2rem;right: 3rem;}
+
+.ps-card p{font-size:1.5rem; line-height: 45px;  max-width: 1000px;}
+.partner-meta h4{font-size: 2.5rem; font-weight: 600;}
+.partner-meta span{font-size:1.5rem;}
+}
+
+@media (max-width: 1200px) {
+    .ng-hi-card {
+        padding: 3.2rem 3rem;
+    }
+}
+
+@media all and (max-width:960px){
+  .call-section h2{max-width:100%; margin: auto; line-height:140%;}
+  .partner-card{max-width: 47%;}
+}
+
+@media all and (max-width:767px){
+  .ng-hero {height: calc(90vh - 71px);}
+  .ng-hi-card {padding: 2rem; margin-top: -20%;}
+  .pedowitz-grid{margin-bottom:1rem;}
+  .banner-inner-logo {height: 50px;}
+
+  .partner-grid {row-gap: 1.5rem;}
+  .partner-card{padding: 0px 15px 20px 15px;}
+  .partner-card figure {height: 120px;}
+  .partner-card p{font-size: 15px;}
+
+  .about-grid{grid-template-columns: 1fr; row-gap:2rem;}
+  .about-grid p{line-height:180%; max-width:100%;}
+  .about-grid h2{font-size: var(--Font35);}
+
+  .pedowitz-caption{padding:15px}
+  .partner-card{max-width: 100%;}
+  .ng-hero h1 {max-width:100%;}
+
+  .ps-card {row-gap: 20px;}
+  .ps-card figure img{max-height: 40px;}
+  .ps-card p {font-size: 1.25rem; line-height: 2.2rem;}
+  .partner-meta h4 {font-size: 1.8rem;}
+  .partner-meta span{font-size: 1.25rem;}
+
+  .ps-card::before,
+  .ps-card::after{width:3rem;height:3rem;}
+  .ps-card::before{top:-30px; left: 0px;}
+  .ps-card::after{bottom:-40px; right: 0px;}
+  
+}
