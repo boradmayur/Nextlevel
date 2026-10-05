@@ -72,26 +72,27 @@
       showError(privacy, "You must accept the privacy terms");
       isValid = false;
     }
+    const SourceURL = window.location.href;
 
     // If all fields valid
     
     if (isValid) {
       const formData = {
-    name: name.value.trim(),
-    email: email.value.trim(),
-    phone: phone.value.trim(),
-    company: company.value.trim(),
+   Name: name.value.trim(),
+    EmailID: email.value.trim(),
+    MobileNo: phone.value.trim(),
+    Company: company.value.trim(),
     website: website.value.trim(),
-    country: country.value,
+    City: country.value,
     privacyAccepted: privacy.checked,
-    // state: state.value
-    formid: "6",
-    apikey: "a68031bf_1948_4752_8d7a_c75484ab1780",
-    SourceURL: "",
+    formId: "49",
+    dbId: "f464547c_d0b1_4ef7_a91c_a0c5cbc88b2e",
+    SourceURL: SourceURL,
     pagereferrerurl: "",
     rid: "",
     cid: "",
-    pagetitle: ""
+    pagetitle: "",
+    notifyStatus: true,
     
   };
   

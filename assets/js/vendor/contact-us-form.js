@@ -63,6 +63,8 @@
       isValid = false;
     }
 
+    const SourceURL = window.location.href;
+
     // if (assistance.value === '') {
     //   errors.assistance.textContent = 'Please select an option';
     //   isValid = false;
@@ -83,23 +85,25 @@
 
     if (isValid) {
   const formData = {
-    firstName: firstName.value.trim(),
-    lastName: lastName.value.trim(),
-    company: company.value.trim(),
-    jobTitle: jobTitle.value.trim(),
-    email: email.value.trim(),
-    phone: phone.value.trim(),
-    formid: "7",
-    apikey: "a68031bf_1948_4752_8d7a_c75484ab1780",
-    SourceURL: "",
+    
+    FirstName: firstName.value.trim(),
+    LastName: lastName.value.trim(),
+    Company: company.value.trim(),
+    Job_Title: jobTitle.value.trim(),
+    EmailID: email.value.trim(),
+    MobileNo: phone.value.trim(),
+    formId: "48",
+    dbId: "f464547c_d0b1_4ef7_a91c_a0c5cbc88b2e",
+    SourceURL: SourceURL,
     pagereferrerurl: "",
     rid: "",
     cid: "",
-    pagetitle: ""
+    pagetitle: "",
+    notifyStatus: true,
     // assistance: assistance.value
   };
 
-  fetch('https://formapiv5.resul.io/Subscription/formSubmission', {
+  fetch('https://formapiv5.resul.io/Subscription/IndexInsertAPI', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
